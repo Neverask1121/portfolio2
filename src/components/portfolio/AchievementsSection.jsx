@@ -24,7 +24,7 @@ export default function AchievementsSection() {
       if (entry.isIntersecting && !hasTriggered.current) {
         hasTriggered.current = true;
         setTimeout(() => {
-          setUnlockedToast('ACHIEVEMENT_SYSTEM_LOADED');
+          setUnlockedToast('STALKER NO. 1');
           setTimeout(() => setUnlockedToast(null), 3000);
         }, 800);
       }

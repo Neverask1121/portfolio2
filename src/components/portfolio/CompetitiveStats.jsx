@@ -4,7 +4,7 @@ import SectionHeading from './SectionHeading';
 import { Trophy, Code, Zap, Star, TrendingUp, Award } from 'lucide-react';
 
 const CF_USER = 'ADITYA1B2';
-const LC_USER = 'A4A_B6I';
+const LC_USER = 'a4ab6i';
 
 function StatCard({ icon: Icon, label, value, sub, color, delay }) {
   return (

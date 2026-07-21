@@ -66,7 +66,7 @@ function PortfolioContent({ loaded }) {
       </main>
       <Footer />
       <XPBar />
-      <AIAssistant />
+      {/* <AIAssistant /> */}
     </>
   );
 }

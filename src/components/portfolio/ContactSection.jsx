@@ -5,11 +5,11 @@ import { Mail, Phone, Github, Linkedin, Code, ExternalLink } from 'lucide-react'
 
 const LINKS = [
   { label: 'Email', value: '20252501002@iiitvadodara.ac.in', href: 'mailto:20252501002@iiitvadodara.ac.in', icon: Mail, color: 'cyber' },
-  { label: 'Phone', value: '+91 9492266127', href: 'tel:+919492266127', icon: Phone, color: 'violet' },
+  { label: 'Phone', value: '+91 94******27', href: 'tel:+9194******27', icon: Phone, color: 'violet' },
   { label: 'GitHub', value: 'Neverask1121', href: 'https://github.com/Neverask1121', icon: Github, color: 'cyber' },
   { label: 'LinkedIn', value: 'a4ab6i', href: 'https://linkedin.com/in/a4ab6i', icon: Linkedin, color: 'violet' },
   { label: 'Codeforces', value: 'ADITYA1B2', href: 'https://codeforces.com/profile/ADITYA1B2', icon: Code, color: 'cyber' },
-  { label: 'LeetCode', value: 'A4A_B6I', href: 'https://leetcode.com/A4A_B6I', icon: ExternalLink, color: 'violet' },
+  { label: 'LeetCode', value: 'a4ab6i', href: 'https://leetcode.com/a4ab6i', icon: ExternalLink, color: 'violet' },
 ];
 
 const colorStyles = {

@@ -138,9 +138,9 @@ export default function AIAssistant() {
             </motion.div>
           )}
         </AnimatePresence>
-        /* {!open && (
+        {!open && (
           <span className="absolute inset-0 rounded-full border-2 border-cyber/40 animate-ping" />
-        )} */
+        )}
       </motion.button>
 
       {/* Chat panel */}

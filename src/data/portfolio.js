@@ -241,12 +241,12 @@ export const SKILLS_DATA = {
 export const PROFILE = {
   name: 'Aditya Bhandari',
   email: '20252501002@iiitvadodara.ac.in',
-  phone: '+91 9492266127',
+  phone: '+91 94******27',
   github: 'https://github.com/Neverask1121',
   githubUser: 'Neverask1121',
   linkedin: 'https://linkedin.com/in/a4ab6i',
   codeforces: 'ADITYA1B2',
-  leetcode: 'A4A_B6I',
+  leetcode: 'a4ab6i',
   education: 'B.Tech CSE @ IIIT Vadodara (2025–Present)',
   roles: ['AI Developer', 'Full Stack Engineer', 'Competitive Programmer'],
 };
